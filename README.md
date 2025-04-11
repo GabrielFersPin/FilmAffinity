@@ -62,7 +62,9 @@ This project provided hands-on experience with:
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/GabrielFersPin/FilmAffinity.git
+   ```bash
    cd FilmAffinity
+   ```
 2. **Set up a virtual environment (optional but recommended)**:
    ````bash
    python -m venv venv
