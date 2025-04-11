@@ -25,7 +25,7 @@ The primary goal of this project is to:
 
 - **Comprehensive List**: A comprehensive list of Oscar-nominated actors and actresses, along with their most iconic films categorized by genre.
   
-- **Nominations by Genre**: The analysis showed that the **drama** genre received the highest number of nominations over the years, followed by **action**, **comedy** and **horror**
+- **Nominations by Genre**: The analysis showed that the drama genre has historically received the highest number of nominations, followed by action, comedy, and horror.
 
   ![Nominations by Genre](src/images/nominations_by_genre.png)
   *Figure 2: Nominations by Genre over the Years*
